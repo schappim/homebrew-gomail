@@ -1,8 +1,8 @@
 class Gomail < Formula
   desc "Command-line Gmail client: search, read, download, draft and send mail"
   homepage "https://github.com/schappim/gomail"
-  url "https://github.com/schappim/gomail/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0cff8a0689620d6a2f0fba940851e23cc1ac55b836b6d24c7004ae5bd6a45f55"
+  url "https://github.com/schappim/gomail/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "18bd8a34a47c2be59ca92aa2d43ce4f0df608c2517300731d0df337fef836852"
   license "MIT"
   head "https://github.com/schappim/gomail.git", branch: "main"
 
